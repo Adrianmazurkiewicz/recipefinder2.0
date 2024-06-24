@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactRecipe/static/css/main.8175463d.css",
-    "main.js": "/reactRecipe/static/js/main.bad0701c.js",
-    "static/js/453.4c7fe256.chunk.js": "/reactRecipe/static/js/453.4c7fe256.chunk.js",
-    "index.html": "/reactRecipe/index.html",
-    "main.8175463d.css.map": "/reactRecipe/static/css/main.8175463d.css.map",
-    "main.bad0701c.js.map": "/reactRecipe/static/js/main.bad0701c.js.map",
-    "453.4c7fe256.chunk.js.map": "/reactRecipe/static/js/453.4c7fe256.chunk.js.map"
+    "main.css": "/recipefinder2.0/static/css/main.8175463d.css",
+    "main.js": "/recipefinder2.0/static/js/main.c9a6ad0a.js",
+    "static/js/453.4c7fe256.chunk.js": "/recipefinder2.0/static/js/453.4c7fe256.chunk.js",
+    "index.html": "/recipefinder2.0/index.html",
+    "main.8175463d.css.map": "/recipefinder2.0/static/css/main.8175463d.css.map",
+    "main.c9a6ad0a.js.map": "/recipefinder2.0/static/js/main.c9a6ad0a.js.map",
+    "453.4c7fe256.chunk.js.map": "/recipefinder2.0/static/js/453.4c7fe256.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8175463d.css",
-    "static/js/main.bad0701c.js"
+    "static/js/main.c9a6ad0a.js"
   ]
 }
